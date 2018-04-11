@@ -51,6 +51,21 @@ h2 {
   padding-right: 2vw;
   margin: 0 auto;
 }
+.flex{
+    display: flex;
+}
+
+.half{
+    flex-basis: 50%;
+}
+
+.onethird{
+    flex-basis: 33.3%;
+}
+
+.twothird{
+    flex-basis: 66.67%;
+}
 .col-1-2{
   float:left;
   padding-left: 10px;
